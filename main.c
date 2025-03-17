@@ -6,7 +6,7 @@ int main() {
     int tokens = 10;
     char scelta;
 
-    srand(time(NULL)); // Inizializza il generatore di numeri casuali
+    srand(time(NULL)); 
 
     printf("🎰 Benvenuto alla Gambling Machine!\n");
     printf("Hai %d gettoni. Premi INVIO per giocare o 'q' per uscire.\n", tokens);
